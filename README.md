@@ -62,10 +62,13 @@ compositionally - ability to run a query over the result of our previous query
 relational algebra - formal
 SQL - actual / implemented
 
+## XML  
+XML - extensible markup language  
+- document format similar to HTML
 
-
-
-
-
+3 Basic Components:
+1. tagged elements (with nesting)
+2. attributes
+3. text
 
 
